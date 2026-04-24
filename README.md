@@ -15,7 +15,7 @@
 
 ### ⚙️ Tech
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,html,js,nodejs,git" />
+  <img src="https://skillicons.dev/icons?i=python,ts,html,js,nodejs" />
 </p>
 
 ---
